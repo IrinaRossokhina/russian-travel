@@ -7,6 +7,4 @@
     grid-template-columns: repeat(4, 1fr);
 
     margin: 92px auto 0;
-
-    border: 1px solid red;
 }
