@@ -1,8 +1,9 @@
 .place__url-link {
     width: 100%;
+    max-width: 456px;
 
     font-size: 18px;
-    line-height: 22px;
+    line-height: 1.2;
 
     color: #fff;
 
