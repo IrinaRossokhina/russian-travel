@@ -1,23 +1,19 @@
-# Проект: Путешествие по России
+# Russian travel
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+_____________
 
-**Интро**
+_The project was implemented as part of the course
+"Web Developer" from Yandex Practicum.
+This project is an informative website that contains
+information about traveling in Russia and places worth visiting._
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Technology stack
 
-**Figma**
+- HTML
+- CSS
+---
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+- BEM file structure
+- Flexbox
+- Grid Layout
+- Adaptive layout
