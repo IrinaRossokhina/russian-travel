@@ -7,7 +7,7 @@
 
     color: #fff;
 
-    padding-top: 12px;
+    margin-top: 12px;
 
     opacity: 1;
     transition: opacity 0.3s linear;
@@ -15,4 +15,16 @@
 
 .place__url-link:hover {
     opacity: 0.8;
+}
+
+@media screen and (max-width: 768px) {
+    .place__url-link {
+        max-width: 352px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__url-link {
+        max-width: 288px;
+    }
 }
