@@ -2,6 +2,8 @@
 
 _____________
 
+https://irinarossokhina.github.io/russian-travel/index.html
+
 _The project was implemented as part of the course
 "Web Developer" from Yandex Practicum.
 This project is an informative website that contains
