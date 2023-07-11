@@ -8,6 +8,7 @@
 
 @media screen and (max-width: 425px) {
     .header__lang-list {
-        margin: 14px 0 8px;
+        margin-top: 14px;
+        margin-bottom: 8px;
     }
 }
