@@ -18,7 +18,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 600px) {
     .place__url-heading {
         max-width: 288px;
     }
