@@ -2,7 +2,7 @@
 
 _____________
 
-https://irinarossokhina.github.io/russian-travel/index.html
+https://rsskhna.github.io/russian-travel/index.html
 
 _The project was implemented as part of the course
 "Web Developer" from Yandex Practicum.
